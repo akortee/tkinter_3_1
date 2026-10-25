@@ -1,0 +1,7 @@
+# Специфичные файлы macOS
+.DS_Store
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
